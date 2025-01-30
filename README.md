@@ -1,0 +1,2 @@
+# FunctionPlotter
+使用Python结合多个库制作的简单函数计算器
