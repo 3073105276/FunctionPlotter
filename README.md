@@ -46,3 +46,11 @@
 完成整个计算器雏形，可以简单使用
 ### V1.0.1
 对UI进行一些优化
+### V1.0.2
+计算所有函数的交点
+在图像上标出交点
+新增交点显示窗口
+说明界面 使用 customtkinter.CTkToplevel 代替 messagebox进行重构
+支持多行说明，格式清晰
+使用 customtkinter.CTkTextbox 只读文本框，防止误修改
+界面风格与主窗口保持一致
